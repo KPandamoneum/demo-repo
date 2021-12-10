@@ -4,7 +4,7 @@ Some description!
 
 ## subheader is done with "##"
 
-Watch tutorial on youtube
+Watch tutorial on youtube.
 
 ## Local Development
 
